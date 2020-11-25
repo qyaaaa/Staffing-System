@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="7e0f2971-214f-4ad2-8088-143b91830e80" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1k5cgToJ2H6qvOHo8EyVneVkIOo" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/java/com/web" />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\ProgarmDatas\SpringBoot\src\main\resources" />
+      <recent name="F:\ProgarmDatas\SpringBoot\src\main\resources\templates" />
+      <recent name="F:\ProgarmDatas\SpringBoot\src\main\java\com\web\pojo" />
+      <recent name="F:\ProgarmDatas\SpringBoot\src\main\java\com\web\dao" />
+      <recent name="F:\ProgarmDatas\SpringBoot\src\main\java\com\web\config" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\ProgarmDatas\SpringBoot\src\main\java\com\web" />
+      <recent name="F:\ProgarmDatas\SpringBoot\src\main\resources\templates" />
+      <recent name="F:\ProgarmDatas\SpringBoot\src\main\resources\static" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.DemoApplication">
+    <configuration name="Demo1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.Demo1" />
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lazy" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.Lazy" />
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lock8" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.Lock8" />
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.QuickSort" />
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="zj" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.web.zj" />
+      <module name="SpringBoot" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.web.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DemoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="SpringBoot" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.web.DemoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.zj" />
+        <item itemvalue="Application.QuickSort" />
+        <item itemvalue="Application.Lazy" />
+        <item itemvalue="Application.Lock8" />
+        <item itemvalue="Application.Demo1" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7e0f2971-214f-4ad2-8088-143b91830e80" name="Default Changelist" comment="" />
+      <created>1604994003175</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604994003175</updated>
+      <workItem from="1604994007935" duration="2693000" />
+      <workItem from="1605005608780" duration="2192000" />
+      <workItem from="1605061330759" duration="2491000" />
+      <workItem from="1605099332349" duration="2088000" />
+      <workItem from="1605156563919" duration="2404000" />
+      <workItem from="1605328090907" duration="6115000" />
+      <workItem from="1605348663898" duration="1172000" />
+      <workItem from="1605407482846" duration="3509000" />
+      <workItem from="1605414878320" duration="1272000" />
+      <workItem from="1605428174630" duration="3561000" />
+      <workItem from="1605493742409" duration="4575000" />
+      <workItem from="1605523545070" duration="2762000" />
+      <workItem from="1605754068621" duration="2499000" />
+      <workItem from="1605770369879" duration="2227000" />
+      <workItem from="1605844757658" duration="10837000" />
+      <workItem from="1605875223241" duration="2230000" />
+      <workItem from="1605956685088" duration="165000" />
+      <workItem from="1606029604218" duration="596000" />
+      <workItem from="1606039762879" duration="668000" />
+      <workItem from="1606099135880" duration="1134000" />
+      <workItem from="1606112568111" duration="600000" />
+      <workItem from="1606183422356" duration="16616000" />
+      <workItem from="1606209380757" duration="8394000" />
+      <workItem from="1606275955442" duration="13468000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser" timestamp="1606283718053">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="574" y="128" key="#com.intellij.ide.util.MemberChooser/0.0.1536.824@0.0.1536.824" timestamp="1606283718053" />
+    <state x="247" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1606188602229">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="247" y="207" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1536.824@0.0.1536.824" timestamp="1606188602229" />
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom" timestamp="1606295493200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606295493200" />
+    <state width="1493" height="206" key="GridCell.Tab.0.center" timestamp="1606295493200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1606295493200" />
+    <state width="1493" height="206" key="GridCell.Tab.0.left" timestamp="1606295493200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1606295493200" />
+    <state width="1493" height="206" key="GridCell.Tab.0.right" timestamp="1606295493200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1606295493200" />
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom" timestamp="1606295493201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1606295493201" />
+    <state width="1493" height="206" key="GridCell.Tab.1.center" timestamp="1606295493200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1606295493200" />
+    <state width="1493" height="206" key="GridCell.Tab.1.left" timestamp="1606295493200">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1606295493200" />
+    <state width="1493" height="206" key="GridCell.Tab.1.right" timestamp="1606295493201">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="206" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1606295493201" />
+    <state x="249" y="0" key="SettingsEditor" timestamp="1606200700709">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="249" y="0" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1606200700709" />
+  </component>
+</project>
